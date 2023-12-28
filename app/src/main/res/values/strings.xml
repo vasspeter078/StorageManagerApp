@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">StorageManagerApp</string>
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+    <string name="amount">Amount</string>
+    <string name="size">Size</string>
+    <string name="new_storage_item">New Storage Item</string>
+    <string name="button_ok">OK</string>
+    <string name="button_cancel">Cancel</string>
+</resources>
